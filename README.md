@@ -40,7 +40,7 @@ This is a full-stack MERN (MongoDB, Express.js, React, Node.js) food delivery pl
 | Email      | Nodemailer + Gmail SMTP             |
 | Payments   | Razorpay                            |
 | Nutrition  | Nutritionix API                     |
-| Hosting    | Render                              |
+| Hosting    | Vercel                              |
 
 ---
 
